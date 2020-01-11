@@ -1,13 +1,19 @@
 import React from 'react';
-import clicky from './components/clicky/clicky';
-import clickyBootstrap from './clicky-bootstrap/clickyBootstap';
+import Clicky from './components/clicky/clicky';
+import ClickyBootstrap from './clicky-bootstrap/clickyBootstap';
+import FriendBackground from './FriendsBackground';
 
 import './App.css';
 
 
 function App() {
   return (
-    <hello />
+    <div>
+      
+      <FriendsBackground />
+      <ClickyBootstrap />
+      
+    </div>
   );
 }
 

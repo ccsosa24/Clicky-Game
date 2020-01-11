@@ -1,0 +1,9 @@
+.myjumbo {
+    background: transparent;
+}
+
+.h1{
+    color: black;
+    font-size: 40px;
+    font: url(./AllFonts/GabrielWeiss);
+}
