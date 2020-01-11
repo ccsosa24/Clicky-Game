@@ -10,6 +10,9 @@ const ClickyBootstrap = () => {
             <p className="lead">
                 Click on the images to win points but click on the same image and you will lose..
             </p>
+            <p>
+                
+            </p>
 
        
  </div>

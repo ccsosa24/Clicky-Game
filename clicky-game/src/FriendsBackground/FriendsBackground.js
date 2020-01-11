@@ -1,5 +1,5 @@
 import React from 'react';
-import './Friends.css'; 
+import './/FriendsBackground/FriendsBackground.css'; 
 import App from '../App';
 
 const FriendsBackground = () => {
@@ -9,4 +9,4 @@ const FriendsBackground = () => {
     </div>
 };
 
-export default App;
+export default FriendsBackground;

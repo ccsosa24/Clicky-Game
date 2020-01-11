@@ -1,7 +1,7 @@
 import React from 'react';
 import Clicky from './components/clicky/clicky';
-import ClickyBootstrap from './clicky-bootstrap/clickyBootstap';
-import FriendBackground from './FriendsBackground';
+import FriendsBootstrap from './Friends-Bootstrap/FriendsBootstrap';
+import FriendsBackground from '';
 
 import './App.css';
 
@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      
+
       <FriendsBackground />
       <ClickyBootstrap />
       
