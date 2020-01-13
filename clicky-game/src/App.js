@@ -1,5 +1,4 @@
 import React from 'react';
-import Clicky from './components/clicky/clicky';
 import FriendsBootstrap from './Friends-Bootstrap/FriendsBootstrap';
 import FriendsBackground from '';
 
@@ -11,7 +10,7 @@ function App() {
     <div>
 
       <FriendsBackground />
-      <ClickyBootstrap />
+      <FriendsBootstrap />
       
     </div>
   );
